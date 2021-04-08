@@ -1,0 +1,21 @@
+.listbox{
+    display: flex;
+}
+.box{
+    background-color: darkgray;
+    color: white;
+    height: 50px;
+    width: 50px;
+    margin-right: 10px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid;
+}
+.container{
+    text-align: left;
+    margin-left: 50px;
+}
+.box-hover{
+    background-color: deeppink;
+}
